@@ -168,8 +168,8 @@
 
 \begin{center}
     \small{
-    \href{tel:+62326 74924}{+62326 74924} | \href{mailto:vibhachaudhari4040@gmail.com}{vibhachaudhari4040@gmail.com} | 
-    \href{vibhawebsite.netlify.app}{Vibha-website.com}
+    \href{tel:+9285121904}{+9285121904} | \href{mailto:vibhachaudhari.cs22@gmail.com}{vibhachaudhari.cs22@gmail.com} | 
+    \href{https://vibhawebside.netlify.app/}{Vibha-website.com}
     }
 \end{center}
 \vspace{-6mm}
@@ -267,7 +267,7 @@ I am Vibha, a final-year Diploma in Engineering student at Government Polytechni
   {\textbf{Netflix-Clone Website}}  
   {\textbf{Technologies:} HTML, CSS, JavaScript, Material-UI}  
   {\textbf{Year:} 2024}  
-  {{}[\href{elaborate-otter-56d9a0.netlify.app}{\textcolor{darkblue}{\faIcon{globe}}}]}
+  {{}[\href{https://elaborate-otter-56d9a0.netlify.app/}{\textcolor{darkblue}{\faIcon{globe}}}]}
 
 \resumeItemListStart
   \item Built a \textbf{responsive Netflix clone} using \textbf{HTML}, \textbf{CSS}, \textbf{JavaScript}, and \textbf{Material-UI} for dynamic content streaming.
@@ -281,7 +281,7 @@ I am Vibha, a final-year Diploma in Engineering student at Government Polytechni
   {\textbf{Simon Game}}  
   {\textbf{Technologies:} HTML, CSS, JavaScript, Bootstrap}  
   {\textbf{Year:} 2023}
-   {{}[\href{tiny-cheesecake-625f4c.netlify.app}{\textcolor{darkblue}{\faIcon{globe}}}]}
+   {{}[\href{https://tiny-cheesecake-625f4c.netlify.app/}{\textcolor{darkblue}{\faIcon{globe}}}]}
 
 \resumeItemListStart
   \item Developed a \textbf{Simon Game} with \textbf{HTML}, \textbf{CSS}, \textbf{JavaScript}, and \textbf{Bootstrap}.
@@ -297,7 +297,7 @@ I am Vibha, a final-year Diploma in Engineering student at Government Polytechni
   {\textbf{Weather App}}  
   {\textbf{Technologies:} HTML, CSS, JavaScript, Weather API}  
   {\textbf{Year:} 2022}
-   {{}[\href{warm-daffodil-7c7093.netlify.app}{\textcolor{darkblue}{\faIcon{globe}}}]}
+   {{}[\href{https://warm-daffodil-7c7093.netlify.app/}{\textcolor{darkblue}{\faIcon{globe}}}]}
 
 \resumeItemListStart
   \item Built a \textbf{Weather App} using \textbf{HTML}, \textbf{CSS}, and \textbf{JavaScript} for real-time weather updates.
